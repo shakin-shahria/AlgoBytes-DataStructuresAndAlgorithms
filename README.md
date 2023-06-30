@@ -1,1 +1,1 @@
-# AlgoBytes-DataStructuresAndAlgorithms
+# DataStructuresAndAlgorithms
